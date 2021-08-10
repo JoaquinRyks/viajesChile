@@ -1,0 +1,55 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+   }
+
+hr { 
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #1798c1;
+    border: none; 
+    height: 3px;
+  
+  } 
+
+h1{
+    margin-bottom: 30px;
+}
+
+.encabezados{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 22px;
+}
+
+.iconos{
+    font-size: 20px;
+    text-align: center;
+    background-color: #1798c1;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+.cartas{
+    background-color: #1798c1;
+}
+
+footer{
+    background-color: #1798c1;
+    margin-top: 30px;
+    
+
+}
+
+.iconosfooter{
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 10px;
+
+}
